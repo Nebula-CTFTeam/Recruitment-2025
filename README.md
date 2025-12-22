@@ -210,7 +210,10 @@ Hackergame 校内获奖（包括特别奖项）；
 
 ### Web (Web)
 
-[ctfhub 技能树](https://www.ctfhub.com/#/skilltree) web 分支下信息泄露、SQL 注入、XSS、文件上传几项中共选择 5 题，并简单记录解题过程
+完成下面的全部内容：
+
+1. [ctfhub 技能树](https://www.ctfhub.com/#/skilltree) web 分支下全部题目
+2. [BUUOJ](https://buuoj.cn/challenges) Web 第一页的全部题目，并任选 5 题编写解题思路和过程
 
 ### 密码学 (Crypto)
 
@@ -248,6 +251,22 @@ NEBULA 2025 招新群 QQ：`476033823`
 
 | 方向    | ID          | 联系方式   |
 | ------- | ----------- | ---------- |
+| Pwn     | SpongeBob   | 11******32 |
+| Web     | yema        | 14******68 |
+| Reverse | Crabtux     | 84******9  |
+| Crypto  | kenio       | 11******87 |
+| Crypto  | awasq       | 35******48 |
+| Misc    | zyn         | 27******42 |
+| Web     | Cell        | 13******10 |
+| Web     | invictus    | 24******37 |
+| Web     | IsaacruX    | 32******65 |
+
+<details>
+
+<summary>过去的Mentor</summary>
+
+| 方向    | ID          | 联系方式   |
+| ------- | ----------- | ---------- |
 | Web     | yemaster    | 14******68 |
 | Web     | WuY         | 17******24 |
 | Pwn     | eastXueLian | 27******28 |
@@ -255,3 +274,7 @@ NEBULA 2025 招新群 QQ：`476033823`
 | Misc    | Crabtux     | 84******9  |
 | Misc    | Albedo      | 17******92 |
 | Reverse | 0xd009      | 22******04 |
+
+</details>
+
+</font>
